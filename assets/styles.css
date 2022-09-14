@@ -44,3 +44,20 @@ body {
   border: none;
   width: 350px;
 }
+
+.succes {
+  color: green;
+}
+
+.succes input {
+  border-color: green;
+}
+
+.error {
+  gap: 5px;
+  color: red;
+}
+
+.error input {
+  border-color: red;
+}
